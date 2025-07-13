@@ -16,6 +16,6 @@
     "ts-node": "10.9.1"
   },
   "devDependencies": {
-    "ts-proto": "^1.162.1"
+    "ts-proto": "^2.7.5"
   }
 }
